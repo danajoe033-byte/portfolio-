@@ -1,0 +1,40 @@
+<style>
+ body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    color: gold;
+    margin: 20px;
+ }
+.img src {
+    size: 30px;
+    
+}
+.circle-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+    object-fit: cover;
+    border: 10px; solid: #000;
+}
+ header {
+    background: gray;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 1px;
+
+ }
+ section {
+    background: peru;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+ }
+ footer {
+    background: plum;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+ } 
+</style>
+
